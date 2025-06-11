@@ -70,3 +70,42 @@ Make sure you have these libraries installed:
 
 You can also set parameters via the serial monitor:
 
+- `noteDuration`: Speed of note descent (ms)
+- `timeToPlay`: Game duration (ms)
+- `pitchLow` / `pitchHigh`: MIDI pitch filter range
+- `windowMs`: Time window between notes (filter sensitivity)
+
+---
+
+## 📸 Screenshots / Demo
+
+> (You can add images or GIFs of your setup and gameplay here!)
+
+---
+
+## 🎓 Credits & Inspiration
+
+This project is based on open-source ideas and tutorials from:
+
+- [Instructables: PAD HERO](https://www.instructables.com/PAD-HERO-Guitar-Hero-Using-Arduino)
+- [hvandermillen's Gist](https://gist.github.com/hvandermillen)
+- YouTube inspirations from related Arduino MIDI projects
+
+---
+
+## 📄 License
+
+This project is shared for educational purposes. If you reuse or adapt it, please credit the original sources mentioned above.
+
+---
+
+## 🤘 Made by
+
+**@skuydi**  
+March 25
+
+"Like all Arduino code — copied from somewhere else 🙂  
+So don't claim it as your own."
+
+---
+
